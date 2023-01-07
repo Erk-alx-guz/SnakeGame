@@ -25,7 +25,7 @@ class snake():
 
         clock = pygame.time.Clock()
 
-        backGround = pygame.image.load('background.jpg')
+        backGround = pygame.image.load('Images/background.jpg')
         backGroundRec = backGround.get_rect(center = (horizontal/2, vertical/2))
 
         screen.blit(backGround, backGroundRec)
