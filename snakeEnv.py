@@ -3,7 +3,9 @@ import pygame
 class snake():
 
     def __init__(self) -> None:
-        self.snake = 2
+        self.snakelength = 2
+        self.snakehead = (425, 235)
+        self.snaketail = (420, 225)
 
     def check_location():
         pass
