@@ -5,4 +5,4 @@
 * Get me proficient with git
 * Refresh my python skills
 * Improve my knowledge of pygame
-* It will be the bases of a ML environment
+* It will be the bases of an ML environment
